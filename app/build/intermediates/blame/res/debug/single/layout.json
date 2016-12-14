@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu_right.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\slidingmenu_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\activity_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_login_log.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\item_login_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenu_left.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\slidingmenu_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\news_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\news_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_forgetpass.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\fragment_forgetpass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_comment.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\item_list_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pop_selectpic.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\item_pop_selectpic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popuo_window.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\popuo_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar2.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\actionbar2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collect.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\activity_collect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\layout\\dialog_loading.xml"
+    }
+]

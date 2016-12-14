@@ -1,0 +1,2130 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 51,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 55,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 55,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 41,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 42,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 42,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 41,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 41,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 39,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 39,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 57,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 55,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 81,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 81,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 81,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 81,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 52,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 52,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 43,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 43,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 52,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 52,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 45,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3726,
+                        "endColumn": 45,
+                        "endOffset": 3767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 86,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1295,
+                        "endColumn": 86,
+                        "endOffset": 1377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 53,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3773,
+                        "endColumn": 53,
+                        "endOffset": 3822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 45,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 3073,
+                        "endColumn": 42,
+                        "endOffset": 3114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 991,
+                    "endColumn": 42,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 2200,
+                        "endColumn": 39,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 48,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 2654,
+                        "endColumn": 45,
+                        "endOffset": 2698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 41,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1958,
+                        "endColumn": 38,
+                        "endOffset": 1995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endColumn": 46,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 2285,
+                        "endColumn": 43,
+                        "endOffset": 2327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 50,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1778,
+                        "endColumn": 47,
+                        "endOffset": 1824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 69,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3556,
+                        "endColumn": 69,
+                        "endOffset": 3621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endColumn": 108,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1383,
+                        "endColumn": 108,
+                        "endOffset": 1487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 46,
+                    "endOffset": 1444
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 2564,
+                        "endColumn": 43,
+                        "endOffset": 2606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1449,
+                    "endColumn": 54,
+                    "endOffset": 1499
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 2423,
+                        "endColumn": 51,
+                        "endOffset": 2473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1504,
+                    "endColumn": 102,
+                    "endOffset": 1602
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 102,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1607,
+                    "endColumn": 51,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 2373,
+                        "endColumn": 48,
+                        "endOffset": 2420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 52,
+                    "endOffset": 1707
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 2745,
+                        "endColumn": 49,
+                        "endOffset": 2793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1712,
+                    "endColumn": 103,
+                    "endOffset": 1811
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 103,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1816,
+                    "endColumn": 83,
+                    "endOffset": 1895
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 3471,
+                        "endColumn": 80,
+                        "endOffset": 3550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1900,
+                    "endLine": 98,
+                    "endColumn": 9,
+                    "endOffset": 3780
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_instapaper_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3785,
+                    "endColumn": 54,
+                    "endOffset": 3835
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 3211,
+                        "endColumn": 51,
+                        "endOffset": 3261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3840,
+                    "endColumn": 52,
+                    "endOffset": 3888
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 3264,
+                        "endColumn": 49,
+                        "endOffset": 3312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3893,
+                    "endColumn": 52,
+                    "endOffset": 3941
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 3364,
+                        "endColumn": 49,
+                        "endOffset": 3412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3946,
+                    "endColumn": 57,
+                    "endOffset": 3999
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 1,
+                        "startOffset": 3415,
+                        "endColumn": 54,
+                        "endOffset": 3468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4004,
+                    "endColumn": 50,
+                    "endOffset": 4050
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 3315,
+                        "endColumn": 47,
+                        "endOffset": 3361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4055,
+                    "endColumn": 43,
+                    "endOffset": 4094
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1916,
+                        "endColumn": 40,
+                        "endOffset": 1955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4099,
+                    "endColumn": 54,
+                    "endOffset": 4149
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 2979,
+                        "endColumn": 51,
+                        "endOffset": 3029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4154,
+                    "endColumn": 104,
+                    "endOffset": 4254
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 104,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4259,
+                    "endColumn": 52,
+                    "endOffset": 4307
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 2928,
+                        "endColumn": 49,
+                        "endOffset": 2976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4312,
+                    "endColumn": 101,
+                    "endOffset": 4409
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endColumn": 101,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4414,
+                    "endColumn": 43,
+                    "endOffset": 4453
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3627,
+                        "endColumn": 43,
+                        "endOffset": 3666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4458,
+                    "endColumn": 85,
+                    "endOffset": 4539
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 85,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4544,
+                    "endColumn": 52,
+                    "endOffset": 4592
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3672,
+                        "endColumn": 52,
+                        "endOffset": 3720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4597,
+                    "endColumn": 42,
+                    "endOffset": 4635
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 3032,
+                        "endColumn": 39,
+                        "endOffset": 3070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4640,
+                    "endColumn": 86,
+                    "endOffset": 4722
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 86,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4727,
+                    "endColumn": 44,
+                    "endOffset": 4767
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 2330,
+                        "endColumn": 41,
+                        "endOffset": 2370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4772,
+                    "endColumn": 43,
+                    "endOffset": 4811
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 2886,
+                        "endColumn": 40,
+                        "endOffset": 2925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4816,
+                    "endColumn": 59,
+                    "endOffset": 4871
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 4037,
+                        "endColumn": 56,
+                        "endOffset": 4092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4876,
+                    "endColumn": 54,
+                    "endOffset": 4926
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 2147,
+                        "endColumn": 51,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4931,
+                    "endColumn": 46,
+                    "endOffset": 4973
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 46,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 4978,
+                    "endColumn": 47,
+                    "endOffset": 5021
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 47,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5026,
+                    "endColumn": 49,
+                    "endOffset": 5071
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 49,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5076,
+                    "endColumn": 53,
+                    "endOffset": 5125
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 53,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5130,
+                    "endColumn": 57,
+                    "endOffset": 5183
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 57,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5188,
+                    "endColumn": 52,
+                    "endOffset": 5236
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 654,
+                        "endColumn": 49,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5241,
+                    "endColumn": 60,
+                    "endOffset": 5297
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 595,
+                        "endColumn": 57,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5302,
+                    "endColumn": 45,
+                    "endOffset": 5343
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 45,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5348,
+                    "endColumn": 57,
+                    "endOffset": 5401
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 57,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5406,
+                    "endColumn": 57,
+                    "endOffset": 5459
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 57,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5464,
+                    "endColumn": 54,
+                    "endOffset": 5514
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 54,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5519,
+                    "endColumn": 56,
+                    "endOffset": 5571
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 56,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5576,
+                    "endColumn": 52,
+                    "endOffset": 5624
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 2513,
+                        "endColumn": 49,
+                        "endOffset": 2561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5629,
+                    "endColumn": 103,
+                    "endOffset": 5728
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 103,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5733,
+                    "endColumn": 44,
+                    "endOffset": 5773
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3828,
+                        "endColumn": 44,
+                        "endOffset": 3868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5778,
+                    "endColumn": 46,
+                    "endOffset": 5820
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 3166,
+                        "endColumn": 43,
+                        "endOffset": 3208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5825,
+                    "endColumn": 38,
+                    "endOffset": 5859
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 2476,
+                        "endColumn": 35,
+                        "endOffset": 2510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5864,
+                    "endColumn": 83,
+                    "endOffset": 5943
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 83,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5948,
+                    "endColumn": 43,
+                    "endOffset": 5987
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1591,
+                        "endColumn": 40,
+                        "endOffset": 1630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 5992,
+                    "endColumn": 43,
+                    "endOffset": 6031
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1874,
+                        "endColumn": 40,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6036,
+                    "endColumn": 62,
+                    "endOffset": 6094
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 3976,
+                        "endColumn": 59,
+                        "endOffset": 4034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6099,
+                    "endColumn": 63,
+                    "endOffset": 6158
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 4149,
+                        "endColumn": 60,
+                        "endOffset": 4208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6163,
+                    "endColumn": 55,
+                    "endOffset": 6214
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 1,
+                        "startOffset": 4095,
+                        "endColumn": 52,
+                        "endOffset": 4146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6219,
+                    "endColumn": 50,
+                    "endOffset": 6265
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 1,
+                        "startOffset": 3927,
+                        "endColumn": 47,
+                        "endOffset": 3973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6270,
+                    "endColumn": 55,
+                    "endOffset": 6321
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 3873,
+                        "endColumn": 52,
+                        "endOffset": 3924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6326,
+                    "endColumn": 63,
+                    "endOffset": 6385
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 4211,
+                        "endColumn": 60,
+                        "endOffset": 4270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6390,
+                    "endColumn": 48,
+                    "endOffset": 6434
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1998,
+                        "endColumn": 45,
+                        "endOffset": 2042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6439,
+                    "endColumn": 47,
+                    "endOffset": 6482
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1496,
+                        "endColumn": 44,
+                        "endOffset": 1539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6487,
+                    "endColumn": 51,
+                    "endOffset": 6534
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 2045,
+                        "endColumn": 48,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6539,
+                    "endColumn": 53,
+                    "endOffset": 6588
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 2095,
+                        "endColumn": 50,
+                        "endOffset": 2144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6593,
+                    "endColumn": 50,
+                    "endOffset": 6639
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1542,
+                        "endColumn": 47,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6644,
+                    "endColumn": 46,
+                    "endOffset": 6686
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 2609,
+                        "endColumn": 43,
+                        "endOffset": 2651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6691,
+                    "endColumn": 48,
+                    "endOffset": 6735
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1827,
+                        "endColumn": 45,
+                        "endOffset": 1871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6740,
+                    "endColumn": 59,
+                    "endOffset": 6795
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 1,
+                        "startOffset": 4273,
+                        "endColumn": 56,
+                        "endOffset": 4328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6800,
+                    "endColumn": 45,
+                    "endOffset": 6841
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 2701,
+                        "endColumn": 42,
+                        "endOffset": 2742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6846,
+                    "endColumn": 59,
+                    "endOffset": 6901
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 59,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 6906,
+                    "endColumn": 44,
+                    "endOffset": 6946
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1633,
+                        "endColumn": 41,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 6951,
+                    "endColumn": 86,
+                    "endOffset": 7033
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 86,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7038,
+                    "endColumn": 52,
+                    "endOffset": 7086
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1727,
+                        "endColumn": 49,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7091,
+                    "endColumn": 52,
+                    "endOffset": 7139
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1676,
+                        "endColumn": 49,
+                        "endOffset": 1724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7144,
+                    "endColumn": 59,
+                    "endOffset": 7199
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 59,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7204,
+                    "endColumn": 58,
+                    "endOffset": 7258
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 58,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7263,
+                    "endColumn": 50,
+                    "endOffset": 7309
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 3117,
+                        "endColumn": 47,
+                        "endOffset": 3163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 7314,
+                    "endColumn": 98,
+                    "endOffset": 7408
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 98,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 7413,
+                    "endColumn": 41,
+                    "endOffset": 7450
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 2796,
+                        "endColumn": 38,
+                        "endOffset": 2833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7455,
+                    "endColumn": 83,
+                    "endOffset": 7534
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 83,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7539,
+                    "endColumn": 51,
+                    "endOffset": 7586
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 2836,
+                        "endColumn": 48,
+                        "endOffset": 2883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 7591,
+                    "endColumn": 45,
+                    "endOffset": 7632
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\ssdk_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 2241,
+                        "endColumn": 42,
+                        "endOffset": 2282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 7637,
+                    "endColumn": 61,
+                    "endOffset": 7694
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 61,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 7699,
+                    "endColumn": 62,
+                    "endOffset": 7757
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 62,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 7762,
+                    "endColumn": 65,
+                    "endOffset": 7823
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 65,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 7828,
+                    "endColumn": 61,
+                    "endOffset": 7885
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 208,
+                        "endColumn": 58,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 7890,
+                    "endColumn": 62,
+                    "endOffset": 7948
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 62,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 7953,
+                    "endColumn": 62,
+                    "endOffset": 8011
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 62,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 8016,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 8304
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 8309,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 8464
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 8469,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 8750
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1550,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 1836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 8755,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 9153
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 9158,
+                    "endLine": 205,
+                    "endColumn": 12,
+                    "endOffset": 9589
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 9594,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 9968
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1844,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2224
+                    }
+                }
+            }
+        ]
+    }
+]

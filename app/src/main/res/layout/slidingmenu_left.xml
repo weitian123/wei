@@ -1,0 +1,181 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_slidingmenu_left"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingTop="20dp"
+    android:paddingBottom="60dp" 
+    android:id="@+id/slidingmenu_left">
+    
+    <RelativeLayout
+        android:id="@+id/rl_news"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#33c85555"
+        android:paddingTop="20dp" >
+
+        <ImageView
+            android:id="@+id/iv_news"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/biz_navigation_tab_news" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/iv_news"
+            android:layout_alignLeft="@+id/tv_news"
+            android:text="NEWS"
+            android:textColor="#99ffffff"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/tv_news"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/iv_news"
+            android:text="新闻"
+            android:textColor="#99ffffff"
+            android:textSize="18dp" />
+
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/rl_reading"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="20dp" >
+
+        <ImageView
+            android:id="@+id/iv_collection"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/biz_navigation_tab_read" />
+
+        <TextView
+            android:id="@+id/tv_collection"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/iv_collection"
+            android:text="收藏"
+            android:textColor="#99ffffff"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/iv_collection"
+            android:layout_alignLeft="@+id/tv_collection"
+            android:text="FAVORITE"
+            android:textColor="#99ffffff"
+            android:textSize="10dp" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/rl_local"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="20dp" >
+
+        <ImageView
+            android:id="@+id/iv_loacl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/biz_navigation_tab_local_news" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/iv_loacl"
+            android:layout_alignLeft="@+id/tv_local"
+            android:text="LOCAL"
+            android:textColor="#99ffffff"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/tv_local"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/iv_loacl"
+            android:text="本地"
+            android:textColor="#99ffffff"
+            android:textSize="18dp" />
+
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/rl_commnet"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="20dp" >
+
+        <ImageView
+            android:id="@+id/iv_comments"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/biz_navigation_tab_ties" />
+
+        <TextView
+            android:id="@+id/tv_comments"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/iv_comments"
+            android:text="跟帖"
+            android:textColor="#99ffffff"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/iv_comments"
+            android:layout_alignLeft="@+id/tv_comments"
+            android:text="COMMENT"
+            android:textColor="#99ffffff"
+            android:textSize="10dp" />
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/rl_photo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="20dp" >
+
+        <ImageView
+            android:id="@+id/iv_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/biz_navigation_tab_pics" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/iv_photo"
+            android:layout_alignLeft="@+id/tv_photo"
+            android:text="PHOTO"
+            android:textColor="#99ffffff"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/tv_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/iv_photo"
+            android:text="图片"
+            android:textColor="#99ffffff"
+            android:textSize="18dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

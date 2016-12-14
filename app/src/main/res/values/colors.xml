@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="logo_bg">#992020</color>
+    <color name="white">#ffffff</color>
+    <color name="progress">#E8E8E8</color>
+    <color name="global_bg_color">#fffffdf9</color>
+    <color name="linearlayout_border">#ffd2d2d2</color>
+    <color name="trans">#00000000</color>
+
+</resources>

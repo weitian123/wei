@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_bg.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\progressbar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\btn_red_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout_border.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\linearlayout_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_normalbutton_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\drawable_normalbutton_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_pressed.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\btn_red_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_longbutton_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\drawable_longbutton_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_normal.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\btn_red_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_moretype_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\drawable\\drawable_moretype_selector.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_right_out.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\anim\\anim_activity_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_right_in.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\anim\\anim_activity_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_bottom_out.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\anim\\anim_activity_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\anim\\logo_anim.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\anim\\logo_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\anim\\loading_animation.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\anim\\loading_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_activity_bottom_in.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\anim\\anim_activity_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\build\\intermediates\\res\\merged\\debug\\anim\\down.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyNews\\app\\src\\main\\res\\anim\\down.xml"
+    }
+]
